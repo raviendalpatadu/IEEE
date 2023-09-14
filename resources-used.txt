@@ -1,0 +1,6 @@
+jquery - https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
+images -  https://unsplash.com
+template - https://codepen.io/bradtraversy/pen/xBdyzr
+timeline -  https://codepen.io/tutsplus/pen/QNeJgR
+logos - https://revolux.ucscieee.com
+fonts - https://fonts.googleapis.com/
